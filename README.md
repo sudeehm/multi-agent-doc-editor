@@ -1,10 +1,4 @@
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1uhuTptinnToIv4MFx6mIjtK-wXDX4iaz
-
-## 🆕 NEW: Local AI Support with Ollama + Gemma 2B
+# 🆕 NEW: Local AI Support with Ollama + Gemma 2B
 
 You can now run this app with **local open-source models** using Ollama! No API costs, complete privacy, works offline.
 
