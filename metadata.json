@@ -1,0 +1,5 @@
+{
+  "name": "AutoSolver - Multi-Agent Doc Editor",
+  "description": "A multi-agent system that ingests Question Banks and Source Notes (MS Word/Text), answers questions using Gemini 2.5, and generates a filled Word document.",
+  "requestFramePermissions": []
+}
